@@ -1,9 +1,9 @@
 // src/App.js
 
 import React from 'react';
-import SignUpForm from './components/Auth/SignUpForm'; // Import SignUpForm component
-import SignInForm from './components/Auth/SignInForm'; // Import SignInForm component
-import SignOutButton from './components/Auth/SignOutButton'; // Import SignOutButton component
+import SignUpForm from './components/signup-form'; // Import SignUpForm component
+import SignInForm from './components/signin-form'; // Import SignInForm component
+import SignOutButton from './components/signout-form.js'; // Import SignOutButton component
 
 function App() {
   return (
